@@ -46,7 +46,7 @@ basel-iii-german-banks/
 
 1. Review SQL queries in the /sql folder for analysis methodology
 2. Open Tableau files in /tableau to explore tableau visualisations
-3. Read the full analysis in /report/basel_iii_analysis.pdf
+3. Read the full analysis in /Project
 
 License
 
