@@ -1,5 +1,11 @@
-# basel-iii-german-banks
 Analysis of Basel III capital ratios for Germany's 10 largest banks
+
+Research Question: How significantly do Germany's top 10 banks exceed Basel-III minimum capital requirements?  
+Data Source: European Banking Authority (EBA), 2025 EU-wide Transparency Exercise  
+Scope: Germany - 10 largest banks  
+Time Period: 2025 Q2  
+Main Metrics: CET-1, Tier 1 and Leverage Ratios  
+Tools: Microsoft Excel, SQL (MySQL), Tableau  
 
 Project Objective
 
